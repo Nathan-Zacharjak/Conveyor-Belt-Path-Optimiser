@@ -1,4 +1,4 @@
-# Shortest Path Finder
+# T-SQL Shortest Path Finder
 
 This is a collection of scripts, mainly written in T-SQL, to be used with a MS SQL Server database. It is currently capable of returning the shortest path from 2 devices, but it is planned to expand this to returning the 5 shortest paths out of 1 starting node and many ending nodes.
 
